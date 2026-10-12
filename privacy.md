@@ -37,4 +37,4 @@ iCloudにサインインしている場合、本アプリのデータは、同�
 本アプリのプライバシーに関するお問い合わせは、以下までご連絡ください。
 
 運営者：前川 統
-連絡先：subaru12apps+michinori@gmail.com
+連絡先：subaru12apps@gmail.com
